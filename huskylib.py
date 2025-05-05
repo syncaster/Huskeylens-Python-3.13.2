@@ -1,11 +1,3 @@
-# HuskyLens Python Library
-# Author: Robert Prast (robert@dfrobot.com)
-# 08/03/2020
-# Dependenices :
-#   pyserial
-#   smbus
-#   pypng
-#
 # How to use :
 # 1) First import the library into your project and connect your HuskyLens
 # 2) Init huskylens
